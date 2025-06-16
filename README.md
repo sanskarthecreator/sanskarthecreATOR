@@ -10,7 +10,8 @@
 ### 👋 Hello there!
 
 I'm a passionate web developer building awesome things.
-✨ Check out my latest project: [College Buddy Website](https://your-username.github.io/your-repository-name/collegebuddy/)
+✨ Check out my latest project:
+1.[College Buddy Website](https://sanskarthecreator.github.io/CollegeBuddy/)
 ---
 
 Skills: HTML, CSS, JavaScript, etc.
