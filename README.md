@@ -4,9 +4,7 @@
 🧠 Currently, I'm boosting my DSA skills.<br>
 🛠️ I'm exploring backend frameworks.<br>
 🐍 I'm learning advanced Python.<br>
-
-🤝 I'm looking to collaborate on open-source full stack or Python backend projects.<br>
-
+🤝 I'm looking to collaborate on open-source full stack.<br>
 💬 Ask me about C++, Python, C, HTML, or DSA!<br><br>
 
 ## 🌐 Socials:
@@ -17,7 +15,8 @@
 ### 👋 Hello there!<br>
 
 ✨ Check out my latest project:<br><br>
-1.[College Buddy Website](https://sanskarthecreator.github.io/CollegeBuddy/)
+1.[College Buddy Website](https://sanskarthecreator.github.io/CollegeBuddy/)<br>
+2.[sanskarMusic](https://sanskarthecreator.github.io/sanskarMusic/)<br>
 ---
 
 Skills: HTML, CSS, JavaScript, etc.
