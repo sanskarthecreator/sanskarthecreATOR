@@ -15,7 +15,7 @@
 ### 👋 Hello there!<br>
 
 ✨ Check out my latest projects:<br><br>
-1.[College Buddy Website](https://sanskarthecreator.github.io/CollegeBuddy/) <h5>Skills : HTML, CSS, JavaScript,</h5><br>
-2.[sanskarMusic](https://sanskarthecreator.github.io/sanskarMusic/) Skills: HTML, CSS, JavaScript,<br>
+1.[College Buddy Website](https://sanskarthecreator.github.io/CollegeBuddy/)<br>Skills : HTML, CSS, JavaScript,<br><br>
+2.[sanskarMusic](https://sanskarthecreator.github.io/sanskarMusic/) <br>Skills: HTML, CSS, JavaScript,<br>
 ---
 
