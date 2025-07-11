@@ -1,5 +1,5 @@
 # Hey there! 👋<br><br>
-🚀 I'm a CS student (soon-to-be second-year) passionate about backend development!<br>
+🚀 I'm a CS student passionate about frontend / backend development!<br>
 
 🧠 Currently, I'm boosting my DSA skills.<br>
 🛠️ I'm exploring backend frameworks.<br>
